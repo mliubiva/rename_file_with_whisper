@@ -1,0 +1,4 @@
+mlx
+lightning-whisper-mlx
+pydub
+tqdm
